@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhakshith K</h1>
 
-<!--
-**dhakxhith/dhakxhith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Computer Science Engineering Student | Java Developer | Machine Learning Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science and Engineering
+
+🏫 Karunya Institute of Technology and Sciences
+
+💻 Passionate about Java Development, AI, Machine Learning and Cloud Computing.
+
+🌱 Currently Learning
+- Spring Boot
+- React
+- Docker
+- Kubernetes
+- AWS
+
+🚀 Skills
+
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
+- AWS
+- Azure
+- Docker
+- Git
+
+## 📌 Featured Projects
+
+### 🏥 ICU Patient Survival Prediction
+Deep Q-Network and Ensemble Learning based Clinical Decision Support System.
+
+### 🤖 AI Sales Order Automation
+AI-powered order management system.
+
+## 📜 Certifications
+
+- Azure Data Fundamentals
+- AWS Cloud Practitioner Essentials
+- Oracle OCI Data Science Professional
+- IBM UX Design Fundamentals
+
+## 📫 Connect with Me
+
+📧 Email: dhakshith1694@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/dhakshith-k-61b510335
